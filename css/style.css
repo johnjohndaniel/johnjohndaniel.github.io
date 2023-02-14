@@ -103,6 +103,9 @@ html{
 
 .header .logo{
     cursor: pointer;
+    float: left;
+    width: 100px;
+    height: 100px;
 }
 
 
